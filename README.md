@@ -10,6 +10,4 @@
 https://simka18.su/test/Form.html
 
 ссылка на таблицу(куда выгружаются данные)
-единственное проблема с кодировкой при выгрузке. в базе кодировка стабильна
-
 https://docs.google.com/spreadsheets/d/17DcMH6LTOYivG8h7T3GFvxW5o5jNidRQe7UEpmkM4ls
